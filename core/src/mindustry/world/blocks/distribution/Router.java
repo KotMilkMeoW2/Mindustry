@@ -40,7 +40,7 @@ public class Router extends Block{
 
         @Override
         public boolean canControl(){
-            return size == 2;
+            return size >= 1;
         }
 
         @Override
