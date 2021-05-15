@@ -180,8 +180,8 @@ public class BlockRenderer{
         int avgx = (int)(camera.position.x / tilesize);
         int avgy = (int)(camera.position.y / tilesize);
 
-        int rangex = (int)(camera.width / tilesize / 1) + 4;
-        int rangey = (int)(camera.height / tilesize / 1) + 4;
+        int rangex = (int)(camera.width / tilesize / 2) + 3;
+        int rangey = (int)(camera.height / tilesize / 2) + 3;
 
         if(avgx == lastCamX && avgy == lastCamY && lastRangeX == rangex && lastRangeY == rangey){
             return;
