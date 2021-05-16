@@ -15,4 +15,4 @@
 2. increased copy area
 3. you can move into the distributor
 4. there will be more in the future
- The client runs on servers
+The client runs on servers
