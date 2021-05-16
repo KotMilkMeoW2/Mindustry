@@ -160,7 +160,7 @@ public class BlockRenderer{
         }
 
         float ww = world.width() * tilesize, wh = world.height() * tilesize;
-        float x = camera.position.x + tilesize / 1f, y = camera.position.y + tilesize / 1f;
+        float x = camera.position.x + tilesize / 2f, y = camera.position.y + tilesize / 2f;
         float u = (x - camera.width / 2f) / ww,
         v = (y - camera.height / 2f) / wh,
         u2 = (x + camera.width / 2f) / ww,
