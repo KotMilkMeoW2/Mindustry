@@ -10,3 +10,5 @@
 ## Android 
 1. Delete the usual Mindustry (if desired, you can make a backup in the settings)
 2. Download the laster version in releass (android-version.apk)
+# Functions 
+1. отдаление и приближение камеры улучшено
