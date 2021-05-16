@@ -11,4 +11,8 @@
 1. Delete the usual Mindustry (if desired, you can make a backup in the settings)
 2. Download the laster version in releass (android-version.apk)
 # Functions 
-1. отдаление и приближение камеры улучшено
+1. min and max camera zoom increased 
+2. increased copy area
+3. you can move into the distributor
+4. there will be more in the future
+ The client runs on servers
