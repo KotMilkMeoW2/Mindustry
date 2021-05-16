@@ -8,4 +8,5 @@
 2. coping in path/to/the/game/jre 
 3. Done 
 ## Android 
-Download the laster version in releass (android-version.apk)
+1. Delete the usual Mindustry (if desired, you can make a backup in the settings)
+2. Download the laster version in releass (android-version.apk)
